@@ -1,9 +1,9 @@
-# mealhub-backend-
+
 # 🍽️ MealHub
 
-O **MealHub** é uma aplicação fullstack para gerenciamento de restaurantes, permitindo o cadastro de usuários, cardápio e pedidos de forma simples e eficiente.
+O **MealHub** é uma aplicação backend para gerenciamento de restaurantes, permitindo o cadastro de usuários, cardápio e pedidos de forma simples e eficiente.
 
-> 🚧 Projeto em desenvolvimento — atualmente focado no backend (API REST).
+> 🚧 Projeto em desenvolvimento.
 
 ---
 
@@ -110,10 +110,6 @@ A API será disponibilizada via **Render**.
 ## 👩‍💻 Autora
 
 Desenvolvido por **Julliane**
-Estudante de Análise e Desenvolvimento de Sistemas com foco em backend.
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
